@@ -1,3 +1,21 @@
+# BIOMD0000000314: Raia2010_IL13_L1236
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000314.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000314.git@20140916`
+
+
+# Model Notes
 
 
 This is the model of IL13 induced signalling in L1236 cells described in the
@@ -149,4 +167,5 @@ Inline follows the original matlab code:
     
     %% Designer properties (do not modify)
     m.designerPropsM = [1 1 1 0 0 0 400 250 600 400 1 1 1 0 0 0 0];
+
 
